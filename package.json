@@ -1,5 +1,5 @@
 {
-  "name": "contatoapp",
+  "name": "contato-app",
   "author": "Raul Pereira <raul.pereira@gmail.com>",
   "private": true,
   "scripts": {
@@ -42,5 +42,5 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [],
-  "description": "contatoapp: An Ionic project with Firebase"
+  "description": "Contato app.: An Ionic 2 project with Firebase"
 }
